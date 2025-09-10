@@ -4,7 +4,7 @@
       <p>Desenvolvedor Full-Stack especializado na criação de aplicações web de alta performance com React e Node.js.</p>
     </td>
     <td width="30%" align="center">
-      <b>Vamos nos Conectar!</b>
+      <b>Contato:</b>
       <br>
       <p>
         <a href="mailto:samuelvalerio.filho@gmail.com">
