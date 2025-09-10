@@ -1,5 +1,3 @@
-### Olá, sou o Samuel Valério.
-
 <table>
   <tr>
     <td valign="top">
